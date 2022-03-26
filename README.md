@@ -14,7 +14,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
-- 📫 Reach me through **amanthapa1140@gmail.com**
+- 📫 Reach me at **amanthapa1140@gmail.com**
 
 <!-- - ⚡ Fun fact **I read novels and go to the GYM very often.** -->
 
