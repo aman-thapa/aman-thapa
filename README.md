@@ -8,7 +8,7 @@
 
 - 👨‍🎓 I’m currently studying in **Dayananda Sagar University**
 
-- 🌱 I’m currently learning **Data Science.**
+- 🌱 I’m currently mastering **Data Science.**
 
 
 
