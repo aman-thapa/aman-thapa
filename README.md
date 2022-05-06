@@ -6,15 +6,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 👨‍🎓 I’m currently studying in **Dayananda Sagar University**
+- 👨‍🎓 I’m studying in **Dayananda Sagar University**
 
 - 🌱 I’m currently mastering **Data Science.**
 
+- 👨‍💻 Know more: **[My Resume](https://drive.google.com/file/d/19gfoGgBjmFYvbwlfYQijQ1OsGHiDsxJm/view?usp=sharing)**
 
-
-<!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
-
-- 📫 Reach me at **amanthapa1140@gmail.com**
+- 📫 Reach me through: **amanthapa1140@gmail.com**
 
 <!-- - ⚡ Fun fact **I read novels and go to the GYM very often.** -->
 
