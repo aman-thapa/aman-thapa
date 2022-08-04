@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently mastering **Data Science.**
 
-- 👨‍💻 Know more: **[My Resume](https://drive.google.com/file/d/19gfoGgBjmFYvbwlfYQijQ1OsGHiDsxJm/view?usp=sharing)**
+- 👨‍💻 Know more: **[My Resume](https://drive.google.com/file/d/14L9A7jsrzwUKBp8IUMORIJc4W2_A2z-M/view?usp=sharing)**
 
 - 📫 Reach me through: **amanthapa1140@gmail.com**
 
-<!-- - ⚡ Fun fact **I read novels and go to the GYM very often.** -->
+<!-- - ⚡ Fun fact **I read novels and write blogs in my free time.** -->
 
 ## 🚀 Languages and Tools:
 
