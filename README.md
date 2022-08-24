@@ -8,9 +8,9 @@
 
 - 👨‍🎓 I’m studying in **Dayananda Sagar University**
 
-- 🌱 I’m currently mastering **Data Science.**
+- 🌱 I’m currently learning **Data Science.**
 
-- 👨‍💻 Know more: **[My Resume](https://drive.google.com/file/d/14L9A7jsrzwUKBp8IUMORIJc4W2_A2z-M/view?usp=sharing)**
+- 👨‍💻 Know more: **[My Resume](https://drive.google.com/file/d/18C1B1wzWgHpzjCWotQCAVWkf0i3hOfho/view?usp=sharing)**
 
 - 📫 Reach me through: **amanthapa1140@gmail.com**
 
