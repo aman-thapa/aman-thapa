@@ -26,6 +26,8 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.tableau.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="tableau" width="48" height="48"/> </a> 
     <a href="https://powerbi.microsoft.com/en-au/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="power bi" width="50" height="50"/> </a>
+    <a href="https://aws.amazon.com/" target="_blank"> <img src="https://img.icons8.com/color/2x/amazon-web-services.png" alt="aws" width="48" height="48"/> </a>
+    <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://img.icons8.com/color/2x/hadoop-distributed-file-system.png" alt="hadoop" width="50" height="50"/> </a>
 </p>
 
 <br/>
