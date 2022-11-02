@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Data Science.**
 
-- 👨‍💻 Know more: **[My Resume](https://drive.google.com/file/d/1Zmo78T91iWsl_SLjKY98atD7cLkO1OWR/view?usp=sharing)**
+- 👨‍💻 Know more: **[My Resume](https://drive.google.com/file/d/15wzHOmGGjem1pltsG6G0pqtPyOSehVXF/view?usp=share_link)**
 
 - 📫 Reach me through: **amanthapa1140@gmail.com**
 
