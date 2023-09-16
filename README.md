@@ -1,7 +1,7 @@
 <!-- <a href="#"><img width="70%" height="auto" src="https://i.ibb.co/R21z8NV/Pngtree-a-man-who-works-at-5361911.png"/></a> -->
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aman</h1>
-<h3 align="center">I'm an undergraduate majoring in Computer Science and Engineering.</h3>
+<h3 align="center">CSE Grad'23 at Dayananda Sagar University.</h3>
 
 
 ## 🙋‍♂️ About Me
